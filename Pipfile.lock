@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7dfa771a69a217b71ddab824dd580472ac39baee9a94b08ff85431aef6e3c9a2"
+            "sha256": "09708a09921383390ed9ab2d0d874c3af1d545d5439f5319fd77a960764fabfb"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -349,12 +349,12 @@
         },
         "codeforlife": {
             "hashes": [
-                "sha256:2cffb29a9ea0c0e5b48659a67950c6b3bc536ceb7204f74aa327a10befd8e653",
-                "sha256:e7a226b3ec90a7d15bb4912a8fbb920d44d1867bdade213419d6a694303bcd5b"
+                "sha256:2b4c0b6e48cf32160efdd72f32d5d86d8e513a9a671dd56376f99a74aeb44bf0",
+                "sha256:5a82179fe27c9027906984cfb45a4b1a0931c7350a33963baadd2219b38f1813"
             ],
             "index": "pypi",
             "markers": "python_version == '3.12'",
-            "version": "==1.0.2"
+            "version": "==1.0.3"
         },
         "cryptography": {
             "hashes": [
@@ -1893,20 +1893,20 @@
         },
         "codeforlife": {
             "hashes": [
-                "sha256:2cffb29a9ea0c0e5b48659a67950c6b3bc536ceb7204f74aa327a10befd8e653",
-                "sha256:e7a226b3ec90a7d15bb4912a8fbb920d44d1867bdade213419d6a694303bcd5b"
+                "sha256:2b4c0b6e48cf32160efdd72f32d5d86d8e513a9a671dd56376f99a74aeb44bf0",
+                "sha256:5a82179fe27c9027906984cfb45a4b1a0931c7350a33963baadd2219b38f1813"
             ],
             "index": "pypi",
             "markers": "python_version == '3.12'",
-            "version": "==1.0.2"
+            "version": "==1.0.3"
         },
         "codeforlife-portal": {
             "hashes": [
-                "sha256:bc453e4f060f86d73c75450a311ae58dee787d13a5fd9c29a8fde8c78cb57f8c",
-                "sha256:c01c373d029e188426cd5eaad2186e57cc1d399ba7cefc42ea4393016a5bfdae"
+                "sha256:716afcbab21923c8b37c080ca6a9a50f13e462eca46498ccee8d72f3b492af83",
+                "sha256:c030f87783bc5bf8225257667c7d32c8fd1a2e9576ec9e2dd49a2f9138b90ca6"
             ],
             "index": "pypi",
-            "version": "==8.15.11"
+            "version": "==8.15.12"
         },
         "coverage": {
             "extras": [
